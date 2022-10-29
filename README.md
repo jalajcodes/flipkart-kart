@@ -1,2 +1,2 @@
 # flipkart-kart
-Created with CodeSandbox
+Created with React
