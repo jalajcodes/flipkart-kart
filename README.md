@@ -1,2 +1,2 @@
-# flipkart-kart
+# flipkart-cart
 Created with React
