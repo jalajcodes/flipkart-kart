@@ -1,2 +1,2 @@
 # flipkart-kart
-Created with React
+Created with React and Vanilla CSS
